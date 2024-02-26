@@ -1,8 +1,8 @@
-import { SparklesPreview } from "./pages/home";
+import { SpotlightPreview } from "./pages/home";
 
 export default function App() {
   return(
-    <SparklesPreview />
+    <SpotlightPreview />
   )
 }
 
